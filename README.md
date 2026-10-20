@@ -58,3 +58,12 @@ This project demonstrates a practical business analytics workflow, from data pre
 
 ## Project Status
 The core analysis and dashboard have been created. Final data-quality reconciliation and portfolio packaging remain outstanding.
+
+
+## Dashboard Preview
+
+### Business Overview
+![Business Overview](business_overview.png)
+
+### Customer Intelligence
+![Customer Intelligence](customer_intelligence.png)
